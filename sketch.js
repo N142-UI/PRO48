@@ -38,7 +38,7 @@ function setup() {
   
   s1= createSprite(100,100)
   s1.addImage(ch1I)
-  s1.debug=true
+  //s1.debug=true
   //s1.shapeColor="yellow"
   s1.scale=0.4
   
